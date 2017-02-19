@@ -1,0 +1,4 @@
+enforcing:
+  selinux.mode
+
+
