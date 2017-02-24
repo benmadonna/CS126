@@ -4,4 +4,6 @@ base:
     - hostname
     - iptables
     - selinux    
+    - nfs
+    - nfs-config
 
