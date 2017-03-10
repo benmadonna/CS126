@@ -6,4 +6,5 @@ base:
     - selinux    
     - nfs
     - nfs-config
-
+    - samba
+	    
